@@ -17,7 +17,7 @@
         1. DEMOGRAPHIC PROFILE OF RESPONDENT
         <br>
         1.1 Age: 
-        <input type=radio name="age" id="a"> 20-29 yrs. old
+        <input type=radio name="age" id="a"> 2-29 yrs. old
         <input type=radio name="age" id="b"> 30-39 yrs. old
         <input type=radio name="age" id="c"> 40-49 yrs. old
         <input type=radio name="age" id="d"> 50-59 yrs. old
