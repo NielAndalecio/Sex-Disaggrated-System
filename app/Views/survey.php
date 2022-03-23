@@ -34,8 +34,6 @@
         <input type=radio name="civil" id="legalsep"> Legally Separated
         <input type=radio name="civil" id="annulled"> Marriage Annulled
         <input type=radio name="civil" id="sepinfact"> Separated in fact
-        <input type=radio name="civil" id="sepinfact"> Separated in fact
-        <input type=radio name="civil" id="sepinfact"> Separated in fact
         <br>
 
 
