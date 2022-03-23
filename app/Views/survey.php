@@ -36,9 +36,6 @@
         <input type=radio name="civil" id="sepinfact"> Separated in fact
         <br>
 
-        
-        <input type=radio name="civil1" id="single"> Single
-        <input type=radio name="civil1" id="married"> Married
 
         </form>
     </body>
